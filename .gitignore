@@ -5,6 +5,18 @@
 myapp/node_modules
 myapp/package-lock.json
 
+myapp2/node_modules
+myapp2/package-lock.json
+
+myapp3/node_modules
+myapp3/package-lock.json
+
+/myapp2/node_modules
+/myapp2/package-lock.json
+
+/myapp3/node_modules
+/myapp3/package-lock.json
+
 /.pnp
 .pnp.js
 
